@@ -1,0 +1,1 @@
+Laravel create, read, update, and delete operation with authentication using Json Web Token (JWT). Its rich in API documentation written in swagger
